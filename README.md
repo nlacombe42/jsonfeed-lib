@@ -9,7 +9,7 @@ see below sections for the specific artefacts you need.
 Gradle:
 ```groovy
 implementation 'net.nlacombe:nl-jsonfeed:1.0.0'
-implementation 'net.nlacombe:nl-jsonfeed-jackson:1.0.0'
+implementation 'net.nlacombe:nl-jsonfeed-jackson:1.0.1'
 ```
 Maven:
 ```xml
@@ -21,7 +21,7 @@ Maven:
 <dependency>
     <groupId>net.nlacombe</groupId>
     <artifactId>nl-jsonfeed-jackson</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
@@ -29,7 +29,7 @@ Maven:
 Gradle:
 ```groovy
 implementation 'net.nlacombe:nl-jsonfeed:1.0.0'
-implementation 'net.nlacombe:nl-jsonfeed-gson:1.0.0'
+implementation 'net.nlacombe:nl-jsonfeed-gson:1.0.1'
 ```
 Maven:
 ```xml
@@ -41,7 +41,7 @@ Maven:
 <dependency>
     <groupId>net.nlacombe</groupId>
     <artifactId>nl-jsonfeed-gson</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
